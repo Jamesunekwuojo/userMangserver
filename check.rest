@@ -1,0 +1,19 @@
+# POST http://localhost:5000/api/admin/signup
+# Content-Type: application/json
+
+# {
+#     "email": "password@gmail.com",
+#     "password": "v121111"
+# }
+
+
+POST http://localhost:5000/api/news/news
+Content-Type: application/json
+
+{
+    "title": "password@gmail.com",
+    "tags": "v121111",
+    "text": "gergerger",
+    "images": ["efbebtrbetrfe"] 
+}
+
